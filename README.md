@@ -6,6 +6,7 @@ The password generator is designed to randomly create a password between 8 and 1
 
 ## Installation
 
-NA
+[NA](https://dscoderman.github.io/Password_Generator/)
+
 
 ## Usage
